@@ -13,5 +13,10 @@
     "username": "melpin",
     "password": "melpin32",
     "role": "RESELLER"
+  },
+  {
+    "username": "aurell",
+    "password": "aurelkyy",
+    "role": "RESELLER"
   }
 ]
